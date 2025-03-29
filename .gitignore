@@ -1,0 +1,9 @@
+.terraform/
+generated-files/
+.DS_Store
+.git
+<<<<<<< HEAD
+.idea
+=======
+.idea
+>>>>>>> 27a1712 ( .gitingnore added)

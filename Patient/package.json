@@ -1,0 +1,12 @@
+{
+    "name": "patient-service",
+    "version": "1.0.0",
+    "description": "Patient management service",
+    "main": "patient-service.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "scripts": {
+      "start": "node patient-service.js"
+    }
+  }
